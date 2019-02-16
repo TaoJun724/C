@@ -6,7 +6,7 @@
 using namespace std;
 
 
-//定长的对象池
+//定长的内存池(对象池)
 template<class T>
 class ObjectPool 
 {
